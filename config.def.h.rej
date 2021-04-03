@@ -1,0 +1,11 @@
+--- config.def.h	2012-01-09 19:07:41.065029408 +0400
++++ config.def.h	2012-01-09 19:02:02.313506614 +0400
+@@ -1,7 +1,7 @@
+ /* See LICENSE file for copyright and license details. */
+ 
+ /* appearance */
+-static const char font[]            = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";
++static const char font[]            = "Sans 8";
+ static const char normbordercolor[] = "#444444";
+ static const char normbgcolor[]     = "#222222";
+ static const char normfgcolor[]     = "#bbbbbb";
